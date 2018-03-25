@@ -1,0 +1,22 @@
+{
+  "name": "react-inst",
+  "version": "0.0.1",
+  "description": "Widget showing instagram feed by user, location id or tag",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Roman Dmiterko",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "4.17.5"
+  },
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "parcel-bundler": "^1.6.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
