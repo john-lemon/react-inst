@@ -1,4 +1,6 @@
-[Click to view demo ](https://john-lemon.github.io/react-inst/)
+
+# Currently not working because Instagram changed their graphql API authentication.
+# I'm trying to find the solution now.
 
 To view the demo locally, you need:
 
